@@ -1,3 +1,12 @@
 body {
     text-align: center;
 }
+a {
+    text-decoration: none;
+    border: 1px solid;
+    padding: 4px;
+    border-radius: 1px;
+}
+a:hover {
+    background-color: grey;
+}
