@@ -3,7 +3,7 @@
 </script>
 
 <nav>
-  <a href="/"> Home </a> <a href="/about"> About </a> <a href="/blog"> Blog </a> <a href="/tutorial"> Tutorial </a> <a href="/goofysounds">Goofy sounds</a>
+  <a href="/"> Home </a> <a href="/about"> About </a> <a href="/blog"> Blog </a> <a href="/tutorial"> Tutorial </a> <a href="/goofysounds">Goofy sounds</a> <a href="/bypasses"> Bypasses </a>
 </nav>
 <slot />
 <footer style='position: relative; top: 400px;'>
