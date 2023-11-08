@@ -2,8 +2,8 @@
   export let data;
 </script>
 
-<ul>
+<div>
   {#each data.summaries as { slug, title }}
-    <li><a href="/blog/{slug}">{title}</a></li>
+    <p><a href="/blog/{slug}">{title}</a></p>
   {/each}
-</ul>
+</div>

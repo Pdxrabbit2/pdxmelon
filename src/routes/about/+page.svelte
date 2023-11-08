@@ -5,7 +5,7 @@
 
 <h1>Tos</h1>
 <div style="font-size: 3px">
-  You have no rights. We can do whatever we want.
+  You have no rights. We can do whatever we want. (That is a joke, there are not real terms.)
 </div>
 FUN GAME:
 <Counter countPerClick={5}/>
