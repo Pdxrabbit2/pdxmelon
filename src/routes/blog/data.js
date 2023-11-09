@@ -1,27 +1,17 @@
 export const posts = [
 	{
 		slug: 'welcome',
-		title: 'Welcome to my blog that does not really have anything lul.',
-		content: `<p>UwU, There is nothing here. Watermelons are the best. Your welcome.</p>`
+		title: 'Welcome to my blog that does not really have anything.',
+		content: `<p>Hi, I am PDXMelon. I like watermelons. You should also like watermelons. This website was made with svelte kit.</p>`
 	},
 	{
-		slug: 'watermelons',
+		slug: 'Watermelons',
 		title: 'Something you should know already',
-		content: '<h1>WATERMELONS ARE THE BEST!!!!!!!!!!!!!11!!!</h1>'
+		content: '<h1>I like watermelons, you should also like watermelons.</h1>'
 	},
 	{
 		slug: 'OwO',
-		title: 'Egirls are the worst!',
+		title: 'I! AM! AN! EGIRL!!!!!!!!',
 		content: `<p>Yo, didja know that I am an egirl. UwU. OwO. <h1>(づ｡◕‿‿◕｡)づ</h1><p>`
-	},
-	{
-		slug: 'hi',
-		title: 'Just another (not) blog post!',
-		content: '<p>Blah blah balh nothing hear i just need filler stuff</p>'
-	},
-	{
-		slug: 'watermelonsrthebest',
-		title: 'WATERMELONS ARE THE BEST',
-		content: `<h1>WATERMELONS ARE THE BEST YOU SHOULD KNOW THAT!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</h1>`
 	}
 ];
