@@ -10,4 +10,6 @@
     {#each data.summaries as { slug, title}}
         <p><a href="/bypasses/{slug}">{title}</a></p>
     {/each}
+    <br />
+    for my fake securly proxyish thing (acctualy works tho) you should go to <a href='/fakesecurlyproxy'>here</a>
 </div>
