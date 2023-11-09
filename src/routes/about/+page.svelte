@@ -1,4 +1,8 @@
 
+<svelte:head>
+  <title>PDXMelon's about page</title>
+  <meta name="The about page of PDXMelons website!">
+</svelte:head>
 <p>
   This website is useless. Thats all for today folks.
 </p>

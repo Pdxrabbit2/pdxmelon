@@ -1,3 +1,7 @@
+<svelte:head>
+    <title>Bypasses (PDXMelon's Website)</title>
+    <meta name="Some bypasses in a list (list by PDXMelon)">
+</svelte:head>
 <script>
     export let data;
 </script>

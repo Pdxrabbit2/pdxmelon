@@ -1,3 +1,8 @@
+<svelte:head>
+    <title>Some Goofy Sound Effects!</title>
+    <meta name="Some silly sound effects I found on a website (myinstants.com)! More to be added!">
+</svelte:head>
+
 <h1>Here are some goofy sounds</h1>
 <div style="background-color: black;">
 discord one: 
