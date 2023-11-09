@@ -5,5 +5,5 @@
 
 <h1>Go find your own games idiot</h1>
 <p>You could go to any other pages:
-    <a href="/bypasses">Bypasses incase you have a school chromebook</a>
+    <a href="/totallyrealschoolwork">Bypasses incase you have a school chromebook</a>
 </p>
