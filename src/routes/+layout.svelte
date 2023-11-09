@@ -1,5 +1,6 @@
 <script>
-  import '../style.css'
+  import '../style.css';
+  import banner from '$lib/assets/freecash_banner.png'
 </script>
 
 <nav>
@@ -11,3 +12,14 @@
   <a href="/games"> Games </a>
 </nav>
 <slot />
+<br />
+<br />
+<br />
+<br />
+<br />
+<img src="{banner}" width='90%' alt='freecash banner' />
+<br />
+<br />
+<br />
+<br />
+<a href='https://freecash.com/r/1184267dac'>YOU SHOULD USE THIS REFFERAL LINK!!!!!!!!</a>
