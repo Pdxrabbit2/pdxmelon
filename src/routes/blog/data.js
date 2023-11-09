@@ -13,10 +13,5 @@ export const posts = [
 		slug: 'Watermelons',
 		title: 'Something you should know already',
 		content: '<h1>I like watermelons, you should also like watermelons.</h1>'
-	},
-	{
-		slug: 'OwO',
-		title: 'I! AM! AN! EGIRL!!!!!!!!',
-		content: `<p>Yo, didja know that I am an egirl. UwU. OwO. <h1>(づ｡◕‿‿◕｡)づ</h1><p>`
 	}
 ];
