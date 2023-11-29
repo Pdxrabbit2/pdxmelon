@@ -12,14 +12,3 @@
   <a href="/games"> Games </a>
 </nav>
 <slot />
-<br />
-<br />
-<br />
-<br />
-<br />
-<img src="{banner}" width='90%' alt='freecash banner' />
-<br />
-<br />
-<br />
-<br />
-<a href='https://freecash.com/r/1184267dac'>YOU SHOULD USE THIS REFFERAL LINK!!!!!!!!</a>
